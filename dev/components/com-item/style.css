@@ -1,0 +1,10 @@
+.item {
+    margin-bottom: 7px;
+    cursor: pointer;
+}
+
+.inputNode > input {
+    outline: none;
+    border: 1px solid cornflowerblue;
+    padding: 2px;
+}

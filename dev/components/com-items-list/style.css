@@ -1,0 +1,18 @@
+.listName {
+    text-align: center;
+    border-bottom: 1px solid #888;
+}
+
+.itemsListBlock {
+    padding: 10px;
+}
+
+._fl {
+    float: left;
+}
+
+._cb:after {
+    content: " ";
+    display: block;
+    clear: both;
+}
